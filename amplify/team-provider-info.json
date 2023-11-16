@@ -24,6 +24,9 @@
           "deploymentBucketName": "amplify-amplifyf700babb4c514-staging-235225-deployment",
           "s3Key": "amplify-builds/amplifyreactgraphql7186d410CustomMessage-654155747279394d714f-build.zip"
         }
+      },
+      "api": {
+        "amplifyreactgraphql": {}
       }
     }
   }
